@@ -1,1 +1,3 @@
 # merge-demo
+
+example commit
